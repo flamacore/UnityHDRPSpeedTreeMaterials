@@ -1,4 +1,4 @@
-# UnityHDRPSpeedTreeMaterials
+# UnityHDRPSpeedTreeShaders
 Material replacements for getting SpeedTree models to work on HDRP Terrain. Highly experimental. Can't seem to get the normal map to work in any kind of way. Still trying though. Might have bugs and might not work as expected in evey project. Tested with HDRP 4.9.0 with Terrain.
 
 # How-to
